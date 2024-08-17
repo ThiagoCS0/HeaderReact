@@ -1,0 +1,7 @@
+p{
+ transition: 1s all;
+}
+p:hover{
+font-size: xx-large;
+cursor: pointer;
+}
